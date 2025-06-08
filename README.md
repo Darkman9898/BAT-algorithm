@@ -1,6 +1,6 @@
 # BAT-algorithm
 
-Implementation of LQR Controller using BAT algorithm.
+Implementation of LQR Controller using BAT algorithm with MATLAB.
 
 # Usage Rights
 All rights reserved. To use this code, please contact the author at tungnguyen98ac@gmail.com for permission. Any use must include a citation to the relevant research paper.
