@@ -8,3 +8,6 @@ All rights reserved. To use this code, please contact the author at tungnguyen98
 # Citation
 Please cite the following paper when using this code:
 https://ejournal.ptti.web.id/index.php/jfsc/article/view/304
+
+# Video
+https://www.youtube.com/watch?v=rdtBtODVQyc
